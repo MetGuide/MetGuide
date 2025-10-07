@@ -51,8 +51,8 @@ It provides **guidance, strategies, and best practices** for anyone starting or 
 
 ## 💬 Contact
 
-- 📫 Email: [bt.electrosend@gmail.com](mailto:bt.electrosend@gmail.com)
-- 💬 Discord: [Join My Discord](https://discord.gg/uqsxwqVDa8)
+- 📫 Email: [![Email](https://img.shields.io/badge/Email-bt.electrosend%40gmail.com-red?style=flat-square&logo=gmail)](mailto:bt.electrosend@gmail.com)  
+- 💬 Discord: [![Discord Server](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=flat-square&logo=discord)](https://discord.gg/uqsxwqVDa8) — **wawaaa#8739**
 
 ---
 
